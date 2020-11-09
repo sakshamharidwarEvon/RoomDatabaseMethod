@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomDatabaseMethod</string>
+    <string name="FCM_PREF">com.example.roomdatabasemethod.fcm_pref</string>
+    <string name="FCM_TOKEN">com.example.roomdatabasemethod.fcm_token</string>
+</resources>

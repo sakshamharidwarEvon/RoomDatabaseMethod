@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "94682009671",
+    "firebase_url": "https://roomdatabasemethod.firebaseio.com",
+    "project_id": "roomdatabasemethod",
+    "storage_bucket": "roomdatabasemethod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94682009671:android:773b7b5ed8bf15fe2fa162",
+        "android_client_info": {
+          "package_name": "com.example.roomdatabasemethod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94682009671-2jme8mmvn7l876rqirso85l7aptc58u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjKNo22Jk_1HBPLuHAWhnhjcQrXREZnM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94682009671-2jme8mmvn7l876rqirso85l7aptc58u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
